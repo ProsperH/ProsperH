@@ -12,6 +12,10 @@
  -  [LinkedIn](https://www.linkedin.com/in/prosper-herbert/)
  - [Gmail](herbertiprosper@gmail.com)
 
+  🔗 Other Links
+
+ - [Medium](https://medium.com/@ladyprosper)
+
 <!---
 ProsperH/ProsperH is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
